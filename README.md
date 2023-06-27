@@ -6,4 +6,4 @@
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
-![Static Badge](https://img.shields.io/badge/code-html-orange) ![Static Badge](https://img.shields.io/badge/code-css-blue)
+![Static Badge](https://img.shields.io/badge/code-HTML-orange) ![Static Badge](https://img.shields.io/badge/code-CSS-blue) ![Static Badge](https://img.shields.io/badge/code-JavaScript-yellow)
