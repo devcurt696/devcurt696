@@ -6,18 +6,10 @@
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
-![Static Badge](https://img.shields.io/badge/code-HTML-orange) ![Static Badge](https://img.shields.io/badge/code-CSS-blue) ![Static Badge](https://img.shields.io/badge/code-JavaScript-yellow)
-![Static Badge](https://img.shields.io/badge/code-php-purple) ![Static Badge](https://img.shields.io/badge/code-python-green) ![Static Badge](https://img.shields.io/badge/code-Java-orange)
-
-  
-
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
