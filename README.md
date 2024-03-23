@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devcurt696&layout=compact&theme=radical)]
 
-![Snake animation](https://github.com/thepiyushmalhotra/devcurt696/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/devcurt696/devcurt696/blob/output/github-contribution-grid-snake.svg)
 
 <br/>  
 
